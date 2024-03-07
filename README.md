@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hey there, I'm Jash 👋🏽
+
+I'm a 23-year-old developer based in Melbourne, and I thrive on crafting user-friendly digital experiences.
 
 <!--
 **JashanKishore/jashankishore** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
