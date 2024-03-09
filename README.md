@@ -17,7 +17,7 @@ My programming journey reflects a fusion of creativity and technical expertise, 
 * I have a deep passion for music and music production.
 * I love sport! I work casually as a Pool Lifeguard and regularly go to the gym, swim and run.
 
-### 📫 Contact
+## 📫 Contact
 You can reach me quickly via [email](mailto:jashan.kishore@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile)
 
 <!--
