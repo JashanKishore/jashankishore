@@ -7,8 +7,11 @@ My programming journey reflects a fusion of creativity and technical expertise, 
 
 ## 🔧 Equipment Used
 **Frontend:** `Swift``SwiftUI` `UIKit` `Java` `Flutter` `Android` `iOS`   
+
 **Backend:** `mySQL` `Neo4j` `MongoDB` `Cassandra` `Firebase`  
+
 **Version control:** `Git` `Gitlab`  
+
 **Other:** `Jira` `Miro` `Agile` `SCRUM` `Figma`  
 
 ## 🤩 Fun Facts
