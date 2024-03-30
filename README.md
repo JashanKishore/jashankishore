@@ -21,7 +21,7 @@ My programming journey reflects a fusion of creativity and technical expertise, 
 * I work casually as a Pool Lifeguard and love fitness.
 
 ## 📫 Contact
-You can reach me quickly via [email](mailto:jashan.kishore@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile)
+You can reach me quickly via [email](mailto:jashan.kishore@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile).
 
 <!--
 **JashanKishore/jashankishore** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
