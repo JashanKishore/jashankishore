@@ -6,9 +6,9 @@ I'm a 24-year-old software developer based in Melbourne, and I love to create di
 My programming journey reflects a fusion of creativity and technical expertise, where each line of code becomes a canvas for innovation. Recognising the profound impact of technology in today's world, I am driven by a deep commitment to crafting real, accessible, and user-friendly digital solutions. Rooted in a belief that technology should empower and enrich, I strive to bridge the gap between complexity and usability, creating intuitive experiences that resonate with users from diverse backgrounds. With a focus on simplicity and inclusivity, I aim to harness the transformative potential of technology to foster positive change and human connection in our increasingly digital age.
 
 ## 🔧 Toolkit
-**Frontend:** `Swift` `SwiftUI` `UIKit` `Java` `Flutter` `Android` `iOS`   
+**Frontend:** `Swift` `SwiftUI` `UIKit`  `Flutter` `Android` `iOS` `JavaScript` `HMTL` `CSS`
 
-**Backend:** `mySQL` `Neo4j` `MongoDB` `Cassandra` `Firebase`  
+**Backend:** `Java` `SQL` `Neo4j` `MongoDB` `Cassandra` `Firebase` `CakePHP`
 
 **Version control:** `Git` `Gitlab`  
 
