@@ -14,14 +14,14 @@ My programming journey reflects a fusion of creativity and technical expertise, 
 
 **Other:** `Jira` `Miro` `Agile` `SCRUM` `Figma`  
 
-## 🤩 Fun Facts
+## 🎉 Fun Facts
 * I graduated with a double degree in I.T and Arts where I majored in Software Development and Philosphy, respectively.
 * Also completed a double minor in psychology and bioethics - I *really* enjoy ethics.
 * I have a deep passion for music and music production.
 * I work casually as a Pool Lifeguard and love fitness.
 
 ## 📫 Contact
-You can reach me quickly via [email](mailto:jashan.kishore@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile).
+You can reach me via [email](mailto:jashan.kishore@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile).
 
 <!--
 **JashanKishore/jashankishore** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
